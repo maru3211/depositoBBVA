@@ -1,0 +1,18 @@
+body {
+    font-family: 'Hammersmith One', sans-serif; /* Fuente principal */
+}
+
+.header {
+    text-align: center;
+    padding: 30px 0; /* Ajuste del padding para reducir el espacio del header */
+    background-color: #666666;
+}
+
+.img-fluid {
+    max-width: 300px;
+}
+.form-control {
+    height: 35px;           /* Ajuste de la altura del input */
+    font-size: 14px;        /* Ajuste del tamaño de la fuente dentro del input */
+    padding: 5px 10px;      /* Ajuste del padding interno */
+}
